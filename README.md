@@ -1,6 +1,5 @@
 The Name is Fajar K.K.P
-Currently interested in AI related topics
-Feel free to contact me at f.kenichi.kp@gmail.com
+Currently interested in AI or CompVi related topics
 
 <!---
 FajarKKP/FajarKKP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
